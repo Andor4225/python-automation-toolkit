@@ -5,3 +5,5 @@ This is a collection of python scripts.
 * strng_arm is a password generator using the secrets python library to produce strong passwords
 
 * qr_generator produces QR code images based off of what you input into the prompt
+
+* password checker checks your password to tell you if its strong or weak
