@@ -7,3 +7,5 @@ This is a collection of python scripts.
 * qr_generator produces QR code images based off of what you input into the prompt
 
 * password_checker checks your password to tell you if its strong or weak
+
+* linux_scripts for detecting handshakes, deauth detection and evil twins
